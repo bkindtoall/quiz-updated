@@ -1,3 +1,6 @@
-#story {
+.niki, .charlize, .maria, .adam, .chris, .lebron, .story {
   display: none;
+}
+img {
+  width: 50%;
 }
